@@ -9,7 +9,7 @@ This App has two screens(Activities):
 
 
 1. Weather
-    - It shows weather forecasst in a listview.
+    - It shows weather forecast in a listview.
     - By default, it will show three day forecast of your current location in Fahrenheit.
     - You can also reload weather data by pressing reload button in action bar.
     - You can customize this page by using settings screen.
@@ -24,4 +24,4 @@ This App has two screens(Activities):
 
 Reference:
 - I used weather underground api to fetch weather data.
-- I studied AsyncTask concept, Threadig concept(UI and background), parsing and layouts from Android Developer's website and professor's notes.
+- I studied AsyncTask concept, Threading concept(UI and background), parsing and layouts from Android Developer's website and professor's notes.
