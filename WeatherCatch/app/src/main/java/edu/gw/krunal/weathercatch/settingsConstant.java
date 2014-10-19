@@ -1,7 +1,7 @@
 package edu.gw.krunal.weathercatch;
 
 /**
- * Created by Mukta on 10/17/2014.
+ * Created by Krunal on 10/17/2014.
  */
 public class settingsConstant {
     public static final String DEFAULT = "default_settings";
