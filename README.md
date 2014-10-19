@@ -9,16 +9,16 @@ This App has two screens(Activities):
 
 
 1. Weather
-- It shows weather forecasst in a listview.
-- By default, it will show three day forecast of your current location in Fahrenheit.
-- You can also reload weather data by pressing reload button in action bar.
-- You can customize this page by using settings screen.
+    - It shows weather forecasst in a listview.
+    - By default, it will show three day forecast of your current location in Fahrenheit.
+    - You can also reload weather data by pressing reload button in action bar.
+    - You can customize this page by using settings screen.
 
 2. Setting
-- You can choose metric for temperature.
-- You can add zipcode and select to use zipcode for weather forecast.
-- You can also set number of days to show on first screen.
-- The user preference is persistent.(used sharedpreference)
+    - You can choose metric for temperature.
+    - You can add zipcode and select to use zipcode for weather forecast.
+    - You can also set number of days to show on first screen.
+    - The user preference is persistent.(used sharedpreference)
 
 
 
