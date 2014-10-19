@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather Catch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather_settings">Settings</string>
+    <string name="action_goback">Go Back</string>
+    <string name="zipcode_no">No</string>
+    <string name="zipcode_yes">Yes</string>
+    <string name="text_zipcode">Use Zipcode ?</string>
+    <string name="text_Metric">Choose Metric</string>
+    <string name="metric_f">F</string>
+    <string name="metric_c">C</string>
+    <string name="enter_zipcode">Enter Zipcode</string>
+    <string name="save_zipcode_button">Save Zipcode</string>
+    <string name="sample_zipcode">20037</string>
+    <string name="action_Refresh">Refresh</string>
+    <string name="Wait_dialog_title">Loading Weather..</string>
+    <string name="Wait_dialog_description">Please wait</string>
+    <string name="GPS_disabled">Your GPS is disabled</string>
+    <string name="Refresh_result">Refresh for better Result</string>
+    <string name="internet_not_working">Connection Error Refresh Later</string>
+    <string name="check_settings">Data Not Available for current settings</string>
+    <string name="Network_not_available">Network is not available</string>
+    <string name="zipcode_saved">zip code saved </string>
+    <string name="day_count_number">days are set</string>
+    <string name="Days">Day</string>
+    <string name="save_day_button">Set</string>
+    <string name="days_text">Day</string>
+    <string-array name="day_count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>

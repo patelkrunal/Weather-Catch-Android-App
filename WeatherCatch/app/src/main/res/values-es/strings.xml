@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">El tiempo de captura</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_weather_settings">Ajustes</string>
+    <string name="action_goback">volver</string>
+    <string name="zipcode_no">No</string>
+    <string name="zipcode_yes">sí</string>
+    <string name="text_zipcode">Usar Código Postal ?</string>
+    <string name="text_Metric">Elija métrico</string>
+    <string name="metric_f">F</string>
+    <string name="metric_c">C</string>
+    <string name="enter_zipcode">Ingresar código postal</string>
+    <string name="save_zipcode_button">Guardar CP</string>
+    <string name="sample_zipcode">20037</string>
+    <string name="action_Refresh">Actualizar</string>
+    <string name="Wait_dialog_title">Cargando El tiempo ..</string>
+    <string name="Wait_dialog_description">por favor espera</string>
+    <string name="GPS_disabled">Su GPS se desactiva</string>
+    <string name="Refresh_result">Actualizar para un mejor resultado</string>
+    <string name="internet_not_working">Error de conexión Actualiza tarde</string>
+    <string name="check_settings">Datos no disponibles para la configuración actual</string>
+    <string name="Network_not_available">La red no está disponible</string>
+    <string name="zipcode_saved">código postal salvó</string>
+    <string name="day_count_number">día se establecen</string>
+    <string name="Days">Día</string>
+    <string name="save_day_button">Set</string>
+    <string name="days_text">Día</string>
+    <string-array name="day_count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>
