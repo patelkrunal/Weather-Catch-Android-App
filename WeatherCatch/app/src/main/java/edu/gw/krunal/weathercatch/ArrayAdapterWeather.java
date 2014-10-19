@@ -1,7 +1,7 @@
 package edu.gw.krunal.weathercatch;
 
 /**
- * Created by Mukta on 10/16/2014.
+ * Created by Krunal on 10/16/2014.
  */
 import java.util.List;
 
