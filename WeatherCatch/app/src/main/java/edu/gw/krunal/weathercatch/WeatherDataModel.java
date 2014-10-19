@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Mukta on 10/16/2014.
+ * Created by Krunal on 10/16/2014.
  */
 public class WeatherDataModel {
     private String mDayName;
